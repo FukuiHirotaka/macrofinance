@@ -7,3 +7,15 @@ lang: en
 code-fold: true
 engine: julia
 ---
+
+## Single-Agent Consumption-Portfolio Choice
+
+## Stochastic Control Methods in Continuous Time
+
+There are three well-known methods to solve stochastic control problem.
+
+1. Hamilton-Jacobi-Bellman (HJB) Equation
+
+2. Stochastic Maximum Principle
+
+3. Martingale Method
