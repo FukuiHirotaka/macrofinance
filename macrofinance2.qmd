@@ -1,0 +1,14 @@
+---
+title: Macrofinance
+author: Hirotaka Fukui
+date: 2025/8/26
+format: html
+lang: en
+code-fold: true
+engine: julia
+---
+
+## Stochastic Calculas
+### Random Variables and Stochastic Processes
+
+To define a random variable, we start with a probability space $(\Omega, F, P)$, where 

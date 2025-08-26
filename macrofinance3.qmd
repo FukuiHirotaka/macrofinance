@@ -1,0 +1,9 @@
+---
+title: Macrofinance
+author: Hirotaka Fukui
+date: 2025/8/26
+format: html
+lang: en
+code-fold: true
+engine: julia
+---
